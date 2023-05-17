@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.bca236e7.css",
-    "main.js": "/static/js/main.e9b575a8.js",
-    "static/js/787.1cbfb430.chunk.js": "/static/js/787.1cbfb430.chunk.js",
-    "static/media/checked.svg": "/static/media/checked.b75ca55e8759862b4083.svg",
-    "index.html": "/index.html",
-    "main.bca236e7.css.map": "/static/css/main.bca236e7.css.map",
-    "main.e9b575a8.js.map": "/static/js/main.e9b575a8.js.map",
-    "787.1cbfb430.chunk.js.map": "/static/js/787.1cbfb430.chunk.js.map"
+    "main.css": "/fridey-app/static/css/main.3b7f41e8.css",
+    "main.js": "/fridey-app/static/js/main.7be72167.js",
+    "static/js/787.1cbfb430.chunk.js": "/fridey-app/static/js/787.1cbfb430.chunk.js",
+    "static/media/checked.svg": "/fridey-app/static/media/checked.b75ca55e8759862b4083.svg",
+    "index.html": "/fridey-app/index.html",
+    "main.3b7f41e8.css.map": "/fridey-app/static/css/main.3b7f41e8.css.map",
+    "main.7be72167.js.map": "/fridey-app/static/js/main.7be72167.js.map",
+    "787.1cbfb430.chunk.js.map": "/fridey-app/static/js/787.1cbfb430.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bca236e7.css",
-    "static/js/main.e9b575a8.js"
+    "static/css/main.3b7f41e8.css",
+    "static/js/main.7be72167.js"
   ]
 }
