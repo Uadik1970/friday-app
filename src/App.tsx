@@ -22,9 +22,9 @@ function App() {
         <Route path={'/registration'} element={<Registration />} />
         <Route path={'/passwordRecovery'} element={<PasswordRecovery />} />
         <Route path={'/enteringANewPassword'} element={<EnteringANewPassword />} />
-        <Route path={'/404'} element={<ErrorPage />} />
+        {/* <Route path={'/404'} element={<ErrorPage />} /> */}
         <Route path={'/test'} element={<Test />} />
-        <Route path={'*'} element={<Navigate to={'/404'} />} />
+        <Route path={'*'} element={<ErrorPage />} />
       </Routes>
 
     </div>
