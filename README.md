@@ -1,4 +1,4 @@
-#DEMO https://uadik1970.github.io/friday-app/
+# DEMO https://uadik1970.github.io/friday-app/
 
 
 # Getting Started with Create React App
