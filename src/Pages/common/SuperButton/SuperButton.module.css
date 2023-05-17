@@ -1,0 +1,41 @@
+.button {
+
+}
+
+.disabled {
+   
+}
+
+.secondary {
+ color: blue;
+}
+
+.default {
+
+}
+
+.red {
+    color:red
+}
+
+.default:hover {
+}
+
+.red:hover {
+}
+
+.secondary:hover {
+}
+
+
+.default:active {
+}
+
+.secondary:active {
+}
+
+.red:active {
+}
+
+.button:disabled {
+}
