@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/fridey-app/static/css/main.3b7f41e8.css",
-    "main.js": "/fridey-app/static/js/main.7be72167.js",
+    "main.js": "/fridey-app/static/js/main.7b67d7ce.js",
     "static/js/787.1cbfb430.chunk.js": "/fridey-app/static/js/787.1cbfb430.chunk.js",
     "static/media/checked.svg": "/fridey-app/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/fridey-app/index.html",
     "main.3b7f41e8.css.map": "/fridey-app/static/css/main.3b7f41e8.css.map",
-    "main.7be72167.js.map": "/fridey-app/static/js/main.7be72167.js.map",
+    "main.7b67d7ce.js.map": "/fridey-app/static/js/main.7b67d7ce.js.map",
     "787.1cbfb430.chunk.js.map": "/fridey-app/static/js/787.1cbfb430.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b7f41e8.css",
-    "static/js/main.7be72167.js"
+    "static/js/main.7b67d7ce.js"
   ]
 }
